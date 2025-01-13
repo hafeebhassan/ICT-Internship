@@ -1,0 +1,47 @@
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color: darkgreen;
+    background-color: blanchedalmond;
+}
+
+.header {
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 40px 10px;
+    margin-bottom: 0%;
+}
+
+p {
+    font-family: cursive;
+    font-size: x-large;
+    background-color: blanchedalmond;
+    border: 2px;
+    border-style: dotted;
+}
+
+ul {
+    font-family: cursive;
+    border: 2px dashed olive;
+    color: olivedrab;
+}
+
+ol {
+    font-family: cursive;
+    color: olivedrab;
+    border: 2px dashed olive
+}
+
+table {
+    border: 5px solid olive;
+    background-color: blanchedalmond;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    
+    margin-right: auto;
+}
