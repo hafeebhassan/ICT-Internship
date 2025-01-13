@@ -1,0 +1,2 @@
+# ICT-Internship
+ICT INTERNSHIP DAY 1
